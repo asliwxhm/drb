@@ -8,42 +8,62 @@
 
 > For example, here’s one from a man we’ll call “Karl.”
 
->> Love you podcasts. Listen as often as I can. keep reading your books.
+>> Karl
+
+>> Love your podcasts. Listen as often as I can. keep reading your books.
 
 >> Our son is in an unhappy marriage. Last night we talked and he mentioned that there is no love in their marriage.
 >> Just coldness. The children “feel” the chasm. There is a lack of trust in the home.
 
-Our son feels he did not protect the children in defense of their mom, even though he disagreed with her. 
+>> Our son feels he did not protect the children in defense of their mom, even though he disagreed with her. 
 
 >> Now the children feel their father does not have their best interests.
 >>
 >> Our daughter-in-law feels that everything is fine.
 >> She uses the passive-aggressive “silent treatment” to punish others. [^silent_treatment]
 
-Our son says she is controlling and manipulative, and that the children have become that way also. There’s no truth in the home. Years ago, she wanted them to go to counseling, but our son refused; now the tables are turned.
+>> ur son says she is controlling and manipulative, and that the children have become that way also. There’s no truth in the home. Years ago, she wanted them to go to counseling, but our son refused; now the tables are turned.
 
-Sad. We want to help but don’t know how to approach it.
+>> Sad. We want to help but don’t know how to approach it.
 
-What podcasts would be helpful to us? And to our son and daughter-in-law? We visit our grandchildren often, sometimes one-on-one. Communications are open with them and with our son.
+>> What podcasts would be helpful to us? And to our son and daughter-in-law? We visit our grandchildren often, sometimes one-on-one. Communications are open with them and with our son.
 
-Daughter-in-law feels, and tells others, we are conspiring against her
+>> Daughter-in-law feels, and tells others, we are conspiring against her
 
-Karl
+>> Karl
 
-Thank you Karl, for that moving email. It can be really sad and frustrating to see a couple in conflict who are at odds with each, especially when your son and grandchildren are involved. And I can imagine you might also be feeling anxious and a bit helpless, and deeply concerned!
+> Dr Burns
+> 
+> Thank you Karl, for that moving email. It can be really sad and frustrating to see a couple in conflict who are at odds with each, especially when your son and grandchildren are involved. And I can imagine you might also be feeling anxious and a bit helpless, and deeply concerned!
+> When I wrote Feeling Good forty years ago, I tried to make it clear that the cognitive therapy tools I described in that book are for people to use to help themselves.
+> It is okay to correct your own distorted negative thoughts in order to break out of a bad mood.
+>
+>  But it is generally NOT a good idea to try to correct someone else’s distorted thoughts,
+>  because they’ll just get ticked off at you!
 
-When I wrote Feeling Good forty years ago, I tried to make it clear that the cognitive therapy tools I described in that book are for people to use to help themselves. It is okay to correct your own distorted negative thoughts in order to break out of a bad mood. But it is generally NOT a good idea to try to correct someone else’s distorted thoughts, because they’ll just get ticked off at you!
+> This is a very understandable error, because you may get really excited by the things I’m teaching, and how helpful they can be when you’re feeling depressed, anxious, or insecure.
+>  So it just makes sense that you would want to share these tools with others.
 
-This is a very understandable error, because you may get really excited by the things I’m teaching, and how helpful they can be when you’re feeling depressed, anxious, or insecure. So it just makes sense that you would want to share these tools with others.
+> But those are generally NOT the tools to use when you’re talking to your son, daughter, spouse, or friend who’s feeling down in the dumps. There is a way to help someone you love who’s hurting—but you’ll have to use an entirely different set of tools and skills—the
 
-But those are generally NOT the tools to use when you’re talking to your son, daughter, spouse, or friend who’s feeling down in the dumps. There is a way to help someone you love who’s hurting—but you’ll have to use an entirely different set of tools and skills—the Five Secrets of Effective Communication—WITHOUT trying to “help.”
+> Five Secrets of Effective Communication—WITHOUT trying to “help.”
 
-So, the short answer to your question is—skillful listening is all that’s called for. Anything more runs the risk of getting you into trouble. But this may require a radical change in the way you communicate, as well as your personal philosophy.
+> So, the short answer to your question is—skillful listening is all that’s called for.
+>  Anything more runs the risk of getting you into trouble. But this may require a
+> radical change in the way you communicate, as well as your personal philosophy.
 
-Let’s talk about what TO do, and what NOT to do when patients, friends or people you care about express angst, or seem troubled, or describe problems in their lives, and they seem to be hurting a lot.
+> Let’s talk about what TO do, and what NOT to do when patients,
+> friends or people you care about express angst,
+>
+> or seem troubled,
+> or describe problems in their lives,
+>
+> and they seem to be hurting a lot.
+
+
 
 > [!IMPORTANT]
-## DO NOT Give advice
+ DO NOT Give advice
 
 1. Try to help
 2. Try to cheer the person up
@@ -188,7 +208,7 @@ Can you see that Billy would be more likely to open up and might even share some
 > and I give the other person some time—typically about 30 minutes or
 > so—just to vent while I use the Five Secrets of Effective Communication—listening skillfully—without trying to “help.”
 
-! [IMPORTANT]
+> [!IMPORTANT]
 > Then I ask the patient to grade me on empathy.
 > I say, “How am I doing so far in terms of understanding how you’re thinking and feeling?
 > Would you give me an A, a B, a C, or perhaps even a D?”
@@ -201,7 +221,7 @@ Can you see that Billy would be more likely to open up and might even share some
 > summarizing the part you missed, and then ask what your grade is, to see if you’ve improved.
 > Usually, your grade will improve a lot.
 
-> ![IMPORTANT]
+> [!IMPORTANT]
 Do NOT try to “help” until you received an A!
 
 > So, let’s assume you’ve gotten an A. What then?
@@ -209,8 +229,8 @@ Do NOT try to “help” until you received an A!
 > I ask if the other person wants help with any of the problems s/he has been discussing.
 > You can ask the same question.
 
->! [IMPORTANT]
-If the other person does NOT want help, but just wanted to talk and get support, your job is done.
+> [!IMPORTANT]
+> If the other person does NOT want help, but just wanted to talk and get support, your job is done.
 > You can also ask if they want to talk some more.
 >Most of the time, all people want is a little listening and support, and they’re not looking for help or advice.
 
@@ -226,7 +246,7 @@ If the other person does NOT want help, but just wanted to talk and get support,
 > Many people will NOT want to go down this road,
 > and will insist(or have the habit, complusion, or that is what they know) on jumping in to help or cheerlead.
 
-> ![IMPORTANT]
+> [!IMPORTANT]
 > You can do that if you want, but in my experience, pushing help on people who are hurting is rarely helpful.
 >
 > The “need” to help or rescue can result from your love and compassion,
