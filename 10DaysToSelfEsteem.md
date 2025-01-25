@@ -1,3 +1,19 @@
+### Cocoa Powder Calculation
+
+We calculated the cocoa needed as:
+- **Grams**: `6.25 g`
+- **Tablespoons**: `1.25 tbsp`[^1]
+
+[^1]: Tablespoon is
+
+Cocoa[^cocoa-definition] is commonly used in desserts.  
+
+You can also use [cocoa][^cocoa-definition] in beverages.  
+
+[^cocoa-definition]: Cocoa powder is a product of roasted and ground cacao beans, used in various recipes.
+
+
+
 file:///C:/src/DrBurnsPdfs/drbBooks_10TensToSelfEsteem.pdf
 > All Credit goes to Dr David Burns and his Book: 10 Days to Self Esteem
 > This page is way to document how his books and techniques I can understand better
@@ -106,3 +122,8 @@ the other one will be a loser.
 #### Links
 [Free Depression Course](https://feelinggood.com/depression-home/)
 [Online Depression Test From Dr Burns](https://feelinggood.com/depression-test/)
+
+
+
+<a name="cocoa-definition"></a>
+**Cocoa**: Cocoa powder is made by grinding cocoa beans and removing the cocoa butter (fat).
